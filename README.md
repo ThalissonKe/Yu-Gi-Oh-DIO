@@ -1,7 +1,7 @@
 # Yu-Gi-Oh |  edição Jo-ken-po 
 ## Esse jogo foi desenvolvido durante o Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos
 <p align="center">
-  <img src="./.github/preview.gif" alt="Yu-Gi-Oh Jo-Ken-Po">
+  <img src="./src/preview.gif" alt="Yu-Gi-Oh Jo-Ken-Po">
 </p>
 
 ### Tecnologias Utilizadas
